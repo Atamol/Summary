@@ -14,6 +14,6 @@
 | CPU | AMD Ryzen™ 7 5700X3D | AMD Ryzen™ 7 8840HS | AMD Ryzen™ 5 5600GT | AMD Ryzen™ 9 7950X3D |
 | RAM | DDR4 32GB | DDR5 16GB | DDR4 64GB | DDR5 128GB |
 | GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics | NVIDIA GeForce GTX™ 1650 |  |
-| Storage | SSD 2TB | SSD 1TB | HDD RAID5 6TB | SSD 2TB |
+| Storage | SSD 2TB | SSD 1TB | HDD RAID5 6TB | |
 
 …and some server machines.
